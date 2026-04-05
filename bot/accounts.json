@@ -1,0 +1,544 @@
+[
+  {
+    "name": "xad",
+    "cookies": {
+      "mangabuff_session": "СЮДА_ЗНАЧЕНИЕ_КУКИ",
+      "XSRF-TOKEN": "СЮДА_ЗНАЧЕНИЕ_XSRF"
+    },
+    "status": "valid",
+    "proxy_host": "",
+    "proxy_port": "",
+    "proxy_user": "",
+    "proxy_pass": ""
+  },
+  {
+    "id": "f16b7af5",
+    "name": "nikitagor1",
+    "email": "nikitagor1@icloud.com",
+    "proxy_host": "",
+    "proxy_port": 0,
+    "proxy_user": "",
+    "proxy_pass": "",
+    "cookies": [
+      {
+        "name": "__ddg8_",
+        "value": "SU7h7pK2tz2rriGP",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg10_",
+        "value": "1774625031",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg9_",
+        "value": "212.23.222.6",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg1_",
+        "value": "JExvK7AbwnktPOIDWhW3",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6Ik4vZkp5emthQXEyQjFCTnRZWDJtMWc9PSIsInZhbHVlIjoiNWdCeWtWUmtTZDF0NHJzRlFuK1JVRWtqOHFSV3VYNlpGZXRiZlNvS1Y1b2Vwc2gySUxaamhLa2lvdndBYkg4TlNPbjl5aWxkL1RwNi9WNkVqVWhmT2daL2FMZTN3RXF0OUUrK090eU1UQys5N09xZzRSdjQxWUlVNlFKWGhwSEoiLCJtYWMiOiI2NWFjZGQ2MWQwOTQ5MjNlNjU4M2JjZjViNDM5Yjc5OGZiYjA3ZDdkMmIyYmYzZjY1ZDU2YTRmNGQ0YjBkMjhhIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "mangabuff_session",
+        "value": "eyJpdiI6Ijg3czdoNzYraEoxaGpiOEc5VFdWbEE9PSIsInZhbHVlIjoib1FZdWV6L0pOVkMwY0piblhZVExCTmhyZXZQM0tIV0JBTzIzZFBYR1c1TzN6QUZjT0NzdHpYaEhlcGVYS3JpdUdrdldmT2VpTkdqampjL09nakY4M21Lc2JObG8yTHp0U1JHRDVoYW4ydURIZGZqenJUOEhETStYZXM0cm96WmwiLCJtYWMiOiJhNDVjNWI3ZWIwNWZjMTA2OGFmNzkwYTk5MDkxYTBjM2E0OGJjMTM0MTI5NWNhYTE4ZjczMWI0MTBmMzgwNGRlIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "last-chapter-id",
+        "value": "a850641d-40bf-4233-a48b-63a89d4fd238",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "value": "eyJpdiI6Ii8vTGtWaDdLTTZ4RFZBQzVFejBFZVE9PSIsInZhbHVlIjoiRmM2NkF0ZnNpMXdrbXdSa1RJMUxRZlJGZ3pqSEJmQmNUeVhjakMxWmFRaFVYRzZtdXpycFB3VTYwbEt0VkpzaitUWWNSTGg4aU84REhBdHF2Y09EQnFTTlJ2Q1Rib1BIS1oyd3loTEVFbktaZGdxWEpYOUNtam8vd0tpZEVKSDBsMit3cGdtMGFLVFFkWjlDb1J1UnJ2cFVERitZVWluVEJFNkgza0h0ck1lT2lSU2VoM1RMbkR6ejI4SC9pTmQ1RUx1OUd2WkxNd0lSZFd6dWtST2Vqc1BsdGoxWi9XTGVROEI4S1ArQWdxND0iLCJtYWMiOiJlMzZiMTA3OTJlMTFmOTQ1MmY1NjFkOTE1NDhiYTJjMjc4OTMxMDlhYzBkYzUwMGVhM2E0YTY1MmE4YmYyYTE1IiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      }
+    ],
+    "status": "valid",
+    "user_id": "1061058"
+  },
+  {
+    "id": "7308d09c",
+    "name": "bankallns",
+    "email": "bankallns@gmail.com",
+    "proxy_host": "",
+    "proxy_port": 0,
+    "proxy_user": "",
+    "proxy_pass": "",
+    "cookies": [
+      {
+        "name": "__ddg8_",
+        "value": "4NFrJGGw3M4bD11P",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg10_",
+        "value": "1774625614",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg9_",
+        "value": "212.23.222.6",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg1_",
+        "value": "3xgJve6ej3xqnY2NzZoz",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6IldmTmpUbGVNWkhBR1dyaHlGbEt3aFE9PSIsInZhbHVlIjoiZkoyUWxIbjltbXRwbkNldm8yeDA0WVhpaVo0RzFlTUMxYXM2Q2E0bTlKcEltbWhoQlFPZE4yN0RJQnlUR21oYXR5Y0xaL09ZVEczTDVhVmZaVVovSzIzbENHQ2d1bnQzNmpZSXV1NzJjVVg0ZEVKNFBBSFJ3SFZ1VXhvWUFqUUMiLCJtYWMiOiIwNTcwMjRmYWMyNzBlNzNjNjhmNTY3NjhlOTA3NzNmNjYwMGQ2Y2YxODM2Mjg4ZTlmMWE5M2I0MGIyNzkxY2FlIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "mangabuff_session",
+        "value": "eyJpdiI6IktnSnJQR3hBTFlIZWhQZnhLUnRHS1E9PSIsInZhbHVlIjoiQ2ZDK3JIYVY2QU1yQTBUc1preXVIZks5UWVVc05BTDBUejhtbSs0Y2YreStnMkRvby9mbmVxc0FLUkRUMVo1NzMvUmlxZndHK3M1RFN0S1NUNnJCTGVkQ0lOMDBORk1CeW10QzFjVG5XS1ZTc1d0Ni83VHpmc056UlN3NVlONmMiLCJtYWMiOiJkZDE1N2QzNTY4ODIxOTY2N2Q3YjkyYTE5YzkzODQ1OWVmOWFkYTc0ZjNmYjg5ZjJkMGRiNzQ3OGUzNDlhZjRkIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "last-chapter-id",
+        "value": "1629309e-7a9f-4bba-83f4-aa34ae037a76",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "value": "eyJpdiI6IkJzdC9vbUZUa0g3ck9meXBzOXpselE9PSIsInZhbHVlIjoiNGRSNVRTY2hXTlB2ck5Bbm55N0gvL0dzZkxTNTZ2QmFtVGNxRzd6MFVUSUdUWHhJeiswZEd2VW1ocWh1M0RaU213ME9NZnVhMDlaTVJNbGkzZzNGanZzL3ZYVE5aYlJwM1B5NWN3TDNVTEFWOC9kYzJWcUgydERtMzRHdXhTZkZzTExzd0ZMRytxVnFFcW1razNYSi9WbGVQOUtZRjNnSVR5VytKNXh4TFVLTUVMVmdNaGd2VVJBUk1xR1lISW5keGVvODFMQ1Y1L0RWZkl4ZWQyeEozaEFpa3I3bHdkM0hWTjdpWlp4Zno4ND0iLCJtYWMiOiI3NzhlZjQ3MTZlYjMyNWVlZWZkZDdiNDJjMmVlMzE2NjNlNjRmNmY0OWVjMjQxNmUwYjYwZTBjYjM5MDJhMjRjIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      }
+    ],
+    "status": "valid",
+    "user_id": "516925"
+  },
+  {
+    "id": "e6075c5d",
+    "name": "shatilova0606",
+    "email": "shatilova0606@yandex.ru",
+    "proxy_host": "",
+    "proxy_port": 0,
+    "proxy_user": "",
+    "proxy_pass": "",
+    "cookies": [
+      {
+        "name": "__ddg8_",
+        "value": "OtLxK3ETVp0gvzNF",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg10_",
+        "value": "1774631749",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg9_",
+        "value": "212.23.222.6",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg1_",
+        "value": "lWdTSI3FMMvXYGxEF94H",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6InVMYUw1SkhmMmx6bmhUMmZDV0Z5TVE9PSIsInZhbHVlIjoiZlJQakhtTDQwbUxMRER3RzhEOEJOUFpnQnVpYk1VMlNySDEycHJLYmpwMnN6NUMzNjBNcVJMenlxY3doSUR1c1JrYS9VM3hsYlh0MHlQOFNWbnBGVGZES3RoY1dRWGw4eEYvWVE2RW5tVjM3SEh5dXQ1WGhxSEZ0bG9xSWRmWkQiLCJtYWMiOiJjMzMxMWQ0ZDI4NDE3NjIwZmIxYmYyMDQ5ZTk5NmY0Y2YyZjBmNmYzNTU2MTkzZjNkYTMwNDQ0YmYwZmE3ZTdjIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "mangabuff_session",
+        "value": "eyJpdiI6InZFQjhEQlppaUNpY0JWUTkrNDZHK0E9PSIsInZhbHVlIjoicWtOc1RnbFlGTC9BcEFlN3B3L2lmUzRzTldWWkYzUWVOU2VlYTFsaWhzZ3kzTzlMK2dDYmtFUXBYUHZYWVJUU3dXSlh5ZmJ5dzNkMEF2Mi9kMFVZQjFvRktzZ0FqcnE2eG1TQ0VFVmxud3hGL3AwenV2NnQyNlpCWHdwVjhIYzgiLCJtYWMiOiJlMDgyMWU2YTFiNGQ3NDNhZmI1OTQyMDA1ZDg5ZWQzYWY3YjMyYTIyZWQxYTYwMzA1ZmM2ZjdmMDVhZDVmN2UxIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "last-chapter-id",
+        "value": "7f7b69a8-4f5e-42f5-85fb-ee9e1ff9f7a9",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "value": "eyJpdiI6IklhRTNSa1BSUUFrRHBwVENFTUJ0M1E9PSIsInZhbHVlIjoiajRwcnRvQW5GTFNBNVZHUkpDUkpQZEQrODV6WE1UV3JzbDZ3dXF2d0YvZlR6MkxHcks1VlBrelVxM2lubmNuaW5FbFJSSk9VOXg2bGpmOEpIWFNiVjlRNGhhZUNaWmNnTDBibkd6Mno1TnZyQlRLdFhtcU1NNFBWYXlacitXNUd2emtSTWZnV0NvRXdPRHpYR0locHdtR2cyRSs1blJ5RU5aY2dScXdyakhweDhVMGRYaGNSdUhuamJMT3Jnek9qNlNwQS9wNG9UMXZSbkdRdk16dmlyU0w2YU1lNk9SL0JZYzJBdVVXVldXaz0iLCJtYWMiOiIxZmFlNzE4ZWIzNjVlNTBjMTM5MTQxMmM2ODA1ZWEyNzJlYjNlMGZiNTBkNDdlMzcxNWJkYThkMjczMzAwZjc5IiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      }
+    ],
+    "status": "valid",
+    "user_id": "786339"
+  },
+  {
+    "id": "f866f2b3",
+    "name": "darivmath",
+    "email": "darivmath@gmail.com",
+    "proxy_host": "45.94.228.73",
+    "proxy_port": 8000,
+    "proxy_user": "uaYsD5",
+    "proxy_pass": "AhoS7U",
+    "cookies": [
+      {
+        "name": "__ddg8_",
+        "value": "6xho9coR8PUnHfb8",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg10_",
+        "value": "1775396601",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg9_",
+        "value": "45.94.228.73",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg1_",
+        "value": "GrbNt2K7Wag4VzUV9EVv",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6IjFlTUJQZjYyRldEYThZU01QcmNxMXc9PSIsInZhbHVlIjoiRDNFcnZ4K056LzVuZHRiMHlYRTNCbFJTTDAzRHhwZ1JyZkZGQU02U3ZLaCtTeVNlSW1BMGN1ZFI1d1hJeDRaK1dkMEdYQTRCeng4Y0tZS2Nla0hJdkRUSmoxVUhaWEdxQjQ5Y3M2UGg3Q29jYnNyTjllVUw5Sm5udWxBZ09XZ1YiLCJtYWMiOiJhYjhjY2Y2ZmQ3NDRhMjVhYzU5OGViNWFkOTVjY2QxMzBmMDgwZjllNWI0YjEyMTBhNGE5YzMxMTgyYTcwMDk5IiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "mangabuff_session",
+        "value": "eyJpdiI6InQvQzFPeG91ZzZ1VVZTZFJxdEIvYlE9PSIsInZhbHVlIjoiNGo1RllpTDhDcVYxM0F3RmpyeTAyeXZpdmdLUVV6ck93K3RoWUFpb0NJelJsMlhBWHFMSWlGZW1XcTBLWkE3UVpSNXlYWnhReEYzY3h2ZWo3VDlXN0xJVFpvR1VGTmFaeUN0SFJ3a3JlK1dteHl0cmpWemljK2JvN2c2emxzcTIiLCJtYWMiOiI1NzBhMDQ1ZjkzYjVlN2ZiYjNjNjk1YzJiOTM2YTcyMWNiNWNlMjEzNWQ2MzA1MDg5MDA3YWUxZGY1YmYzOTE4IiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "last-chapter-id",
+        "value": "8955683f-716d-43cd-a6aa-cb6b0115d645",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "value": "eyJpdiI6IlRZam84a3d3YUdqOE1CcThNZlZNVHc9PSIsInZhbHVlIjoiRGQ3bjhic1U0cXViRmpxUjc5YjEwM3ZjcVNoV0EwRWZ5Q25pVDdvREFMUWRCcCtsTVA1QWxrK2dWb0RXb3lHbXZ3S3JFOEhXcmltdDhTeVNsSmZtaTRVNWdXb0xOOVhoOGpnNUJ6VGtKaDlaRFF4enZxQ3FFWENpd094SE9OQ0RwaEJSMnZITVUzRUttNWJTWXNCTjJqM2o0a0FxTGs5YVJaYms1UTZIRk5zLzNkUERGVkJDMm9tYzJBbTZDaXZkdzdzVU9BZVl1UGJTMXNyOWVXZzlObFRlemRZS29TNkNtbmNGZGhYZkIydz0iLCJtYWMiOiJjNzFkN2ZhZjM2OTQyNjFmNjI4YWMxMGIwMTMzOWIzYzUwODcyN2UyMDYzMGIyYjJjYWQ4ZmIyNDE4ZjMwMDM2IiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      }
+    ],
+    "status": "valid",
+    "user_id": "375762"
+  },
+  {
+    "id": "9bb1c782",
+    "name": "ihnatojura",
+    "email": "ihnatojura@seznam.cz",
+    "proxy_host": "45.94.228.73",
+    "proxy_port": 8000,
+    "proxy_user": "uaYsD5",
+    "proxy_pass": "AhoS7U",
+    "cookies": [
+      {
+        "name": "__ddg8_",
+        "value": "pjC0yZKM4pLu6Xxw",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg10_",
+        "value": "1775396613",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg9_",
+        "value": "45.94.228.73",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg1_",
+        "value": "P69ekr3M8mOQrZwJqEVi",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6Im1xOU9US1ZiWDhQR2FDSXprckFNWmc9PSIsInZhbHVlIjoiQU1udWhFMlFOYlFURnMwTGs5Ris5NTF3U20ycFo1TEViNGVBNWgyRnRDREYxazkxaWtYSUUydXFNUWZxMU11cStVdmZOL1hVVDA4Ym1uQ2lyOFdOTGdReW5USGlTcHo0dlF1bEdGOCtLZksrOVlEcHU4RmV1alMvdXVwUHdRUHAiLCJtYWMiOiIwOTBiM2ZlZDMwYTg2ZjkyYmIxMDhkNTMzMWNhOTZkNzdhZmNjZjg2YTUxMDAzOTczNDdhYzc5ZmNiZmM1OTNlIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "mangabuff_session",
+        "value": "eyJpdiI6Imk3VVBlZnVTUDJaRVpyc3pKWTQyV2c9PSIsInZhbHVlIjoiWGdRQUd2WWx0ZGVzbUF1RWd4L1p4SXlkMFdpTFcwQk5yOU1FdVRhYjQxU0xoYTJXS2luWWtJenBRR3ZYdHltbmxTbkk5ZGNSQ0pRSE0xWExkMjRZV3cvNk54Z2hkWk0wR01uQUozQnZkKzZhSU5rNy9icU5IaG1XSW12WTZWeGQiLCJtYWMiOiI2NGMyMTdlZDNhODFmMzA3NWI4N2JiM2M3MjZmYTQzMzVhM2NlN2NkZWI3YWFmODk0NGZlODk5ZjhlZTIyZDk5IiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "last-chapter-id",
+        "value": "32a3dc36-ec9e-44e6-80ce-fafdf972b6b9",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "value": "eyJpdiI6IjlmL0tLUE1QeURFNTVMWEZ2b290SWc9PSIsInZhbHVlIjoiU24xczlndU4wQnozRW1pbVRQaE5uZjlrbDFxM3VVWCtrQk96bm5tTlMrRlV6VlNwZG5ocFpwL1pVME1MY3BCSTBtQWh5bzE0ekVxcDR6OTRCWHVQS1ozVU5oRTl1WGJIc2lZYTMrSUlMSHBDV3h2RkRDRWNKVmkxaUE1WFNNRnQwc08vc2p3VzJxQmxncXFNc0QzYVVRTDZxUnVWVTBUbDdIMXRydkVkd3dyUzU5bEQxNkcwOW1vbjZIZHhRenZEeDcvZFA5ZjNlL042SVkxS01ndXFQYUVaSFcwT2F1OHd0bmd6K0ZoNkdhTT0iLCJtYWMiOiI4NTFkYWQ4YWZkMmUzZWJmNzdhZTk4YjE3ZjhkNjNiODZmYzllMDI1ZWQzNGMwZTMxZjNmNjM3MGMwNmRmMjg5IiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      }
+    ],
+    "status": "valid",
+    "user_id": "158969"
+  },
+  {
+    "id": "6bf364e8",
+    "name": "aleksenkosasa6",
+    "email": "aleksenkosasa6@gmail.com",
+    "proxy_host": "45.94.230.161",
+    "proxy_port": 8000,
+    "proxy_user": "uaYsD5",
+    "proxy_pass": "AhoS7U",
+    "cookies": [
+      {
+        "name": "__ddg8_",
+        "value": "CR7SlyL17RmYXUgj",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg10_",
+        "value": "1775396632",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg9_",
+        "value": "45.94.230.161",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg1_",
+        "value": "OM5Fc5SBgjrSrwp98Kyl",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6InViVkpFdjMwSmpwTUFXMERKZ2dkdFE9PSIsInZhbHVlIjoieWp3R0lUU2I2MFltMGkvK0c0c05ZR0dJUHRBME85ODQ2U3BjenlneHFWYmFidk1Nb0ZEemhycUIyZ3dXNjg2SHI4ZlQyTEJhZ2M2djZxNmJIZWk0WDdzZEluanl1MWwySGJ2N1R0TE1jRUYxcjRnWDgzUWtxZFZ2UkdTTnM4TmEiLCJtYWMiOiI0ZWRlYjY2MjNkZGY5OWNhODkwMzVhMDJjNjBhYTY3N2JiNzU0NTM5YmFjYTZiOTcyNTczZmVlNDkwM2E0NWY4IiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "mangabuff_session",
+        "value": "eyJpdiI6InVGVXNHcUZxTXdKRVhHUk8vTFdJeEE9PSIsInZhbHVlIjoiWUY2STkwL2RjVkJMZW5aMlpabDI5Zml1Tm9CbmRDYkFsZmVJUHZBV0dXY0llQi9XdnJib1FuOVlVS1NjYmJmQXVkY0R3eWwyRUpTSVkrT3R6OHpWUDhMY3p3TmZibk93OUxBaGI3MXlIbHIrdEVGMG5iM3RCRGVvU1Q2QXZuWGkiLCJtYWMiOiIwNjZmYzkxY2EzODE5ZjA5MWUwYmFiM2MzMmVkYzliYWU3ODc5OTY5MTI4ODJkMzAzYmZhYTNlY2Q3YjAyNjVkIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "last-chapter-id",
+        "value": "96010a65-4b29-4744-a1be-be8dfc8a6e81",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "value": "eyJpdiI6Imt6NGdCeXc5Y2prZkFWUm9ERVJtQ0E9PSIsInZhbHVlIjoic242citOZFRnbjMvZDRYTWtVeVY0WWVORlZsdVRrR2J0ZTFMcXVTVU00Qk9UNWhsN050dXd2dTgwTmdkdEJMUWxJNFVXTU4weVluNGZDNURvQ1BNMzhFaklTTC9GYnNFbDhRTG04SjFSSFlxR29VVVRzWkRRZktFOFFtVDVpcHNMS2lnWjFtY0ZHTkNJQ3pmYThJcWRRbGU0MllLSjcvcnZPR2VHWVhxM0cza3lYVXNmbHprbzdwOWplOHd1TVVITWlaRTdnczBZMzlsYW0wMHEwbVhvTDJxVzFXYUdpb2dMNGZjY0NsdUNCQT0iLCJtYWMiOiJjMzczMWJhNzNkNzUxOTllMGI5OTEwNjgyYzk2ODk2ZThjNzFmY2JmNmQ3NjdkMWY1NjI5NDY5NTM1OTBkZmQ3IiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      }
+    ],
+    "status": "valid",
+    "user_id": "712427"
+  },
+  {
+    "id": "23128a97",
+    "name": "Ded_podpivom",
+    "email": "Ded_podpivom@mail.ru",
+    "proxy_host": "45.94.230.161",
+    "proxy_port": 8000,
+    "proxy_user": "uaYsD5",
+    "proxy_pass": "AhoS7U",
+    "cookies": [
+      {
+        "name": "__ddg8_",
+        "value": "vs0kiJlM329hyG8z",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg10_",
+        "value": "1775396646",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg9_",
+        "value": "45.94.230.161",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg1_",
+        "value": "9PG4vWyFDkAYCwPeBDWC",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6InNvMmpEUHNyUWU1MURoclRaZjQ2emc9PSIsInZhbHVlIjoiK0hsRi83N3NFUmlEZE9kTTVxaGdkMEgva1lYOEV4UWw3WmVDellIMXFzc3NVbzlPbWNESk5nREZUcUMrWUsyekFTZ05vWTJUYjdyK0VYQy9mNFBVVDFzRitPY1BpdUdhWjlhSkxhS1pLeFNzalVTcnh3cXMzQ0Y0bnd3MXBxNUUiLCJtYWMiOiI3OTUwOTdhNWU3ZWNjMDQxYmY1NzFlODlhZWM5YzIxODkyYjhkOWMyNWM2MDQ3ZTZmMWViZjQ4NTRiYjM4M2U4IiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "mangabuff_session",
+        "value": "eyJpdiI6IjU4ZUN6QlUxQ0JkTzVtd3E0Q2Z1SlE9PSIsInZhbHVlIjoiQ201SkVPeTl6aXNWS283Nk9TdjNLZGJCMUltYTNKUFp2UzlKd3g3cjlCbjdFL2pVQSt1Y0ppa2FZaUJjVXFzWHhRSW1OSjNVNGUxQmVHUTB0NzhWN3NzUmlGeGVjckhvT0thRE02REVTYzJJVTREZ2JqZ2toMWc3a0NHbmpGODUiLCJtYWMiOiI5NDJjMjgwNjhlMzNiZGI0Y2YzODY4Y2QwNjcwMzViM2E1OTc1ZjdjNDExODIyNjQzNTgxOTgyOGE5OTYzNTVjIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "last-chapter-id",
+        "value": "0e2b09cc-157f-4bec-bd2d-e1a3711adee8",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "value": "eyJpdiI6IkVKZHdYcmtJTGgwWm5GTTczc3VZeGc9PSIsInZhbHVlIjoiUEg2bERNVUZHaFlHWUZFZCtBam1EMkhxOFFyVUNyQXZUNXE4NGFRMzF1L1VSOHNtcXdneG9GWkovQXlnc3BxMkNYTHpqSVRxb1U1STM0ZXkvaE9rc3RzaG5VdGNuSjdWZjI0eGJBaDhvVGNEUDRTVWlRZmk2bE0rRGoyK2Q1YkNzdHJpOW5KTEExSm9WTTkwT29tbUpjZHlCL1RBN0lnNWMxL01WSXVpVEdKM2VWZ1ExeVh2bHhVVEEwMXNTRWE5ZlgzOVpqYktDS2lHMTNHcTN0ckFVN21nVStSb1NTTFlrU25kTUVKd3lOQT0iLCJtYWMiOiIzNmM4YmRmMzI2OTEyMDJlODdmYmNiYTlhMTQ5ZWYwMzg3MmM0MWMwMWNiMGQ4MzMzYjY4N2VkYzRkM2FhYWIzIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      }
+    ],
+    "status": "valid",
+    "user_id": "737253"
+  },
+  {
+    "id": "6cbc9c20",
+    "name": "1122qwerte0",
+    "email": "1122qwerte0@mail.ru",
+    "proxy_host": "45.94.230.159",
+    "proxy_port": 8000,
+    "proxy_user": "uaYsD5",
+    "proxy_pass": "AhoS7U",
+    "cookies": [
+      {
+        "name": "__ddg8_",
+        "value": "QziTe1WXu4s7lETC",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg10_",
+        "value": "1775396660",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg9_",
+        "value": "45.94.230.159",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg1_",
+        "value": "McQRM6PRcgT9TdFjlhzM",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6InlFOFpTeW9GTjdlK29uME10ZEJKWHc9PSIsInZhbHVlIjoiL1lGc2ZDRm85Vm5xT1krUGhFL3poTVFhNWJPeWVxMStId2d6ZGM1SXo1TlE4c3djbXBUdGlKdm9pSWN6RmE3KzM0V3lJQ3pWMC9yQ2tQbTVHVVZxUVhDcnlRSlg1YVNnSmtGZDN2cTVaeVFwM2RlMGxMb1JPZExjNjNiYXF4dUciLCJtYWMiOiI0NGQxMjMwNzM1MzdkYmNkMDFjM2EyNDQ5Y2I5YThkYjYzZGU3OTNkNDE2NjVlYzJkYTRlM2RjMmYzZWM3ZTEwIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "mangabuff_session",
+        "value": "eyJpdiI6InM4M0RYbVJkTkpVb1F4U2ZaV2pxZXc9PSIsInZhbHVlIjoiVUkzclNHQnpyaDRSWHo3TVI4UGV2dTFNQ2ZyWTNBRFFjanRIYStWMEdUSGk4L2I2TFc5aG5FWmk0SFVvdFU4ajV6VTA1S05wdXBidm1EamZjWFJRNDFIZHcxSXVaQlR2MStsdWlMdU9selViMmNJdFVyQ3RuQldMa0RaWlpoVnkiLCJtYWMiOiJlMDQyNmVkYmU5ZGVkNzUyZmYyMjYyMWY2NWI3ZWI0OGUxMTIwZTFhNjlkZWQ1M2FjZmJhYjc3YmY2NWJlNGJlIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "last-chapter-id",
+        "value": "8441685c-ff8b-4b38-9a6e-93e1bd18ec60",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "value": "eyJpdiI6IkpISElrV0NNa1o3eUlveWw1OVNNUWc9PSIsInZhbHVlIjoiRGcwNFNDeERZUkk0TmVqYUd6U0k1ckhmNTBiUXlCNmVhUkVjNkI1Z2gxd1NzU0t1and0TWlZTXhnbDFVR2Frdm5GQUNmUjMzR2o2YnQyOWRJMm1PZmNFSG1nLzBaU3JObnY1Z0tUb2dFODR3REhyZ2pLUk5MZUV1ejRZYnhsWGgxWTAyendWUk5zRE5hVnZJZlRZd3N1U2ZHa21UaTcvTTNDcENMK21mbXExd2pkR1F5cWFzTUc1K3FpL1dCVFgvdnlHRzJtT3IralFqNjBmS0tkYmRpakY4T0xqZklseWw2OWwzdUpGN3FnND0iLCJtYWMiOiJmMmNmYThmZmNiZTk2MmU4NjM4Mzg5ZDlkZWY2ZjZkZmNiMTVkYTdlMzZhZTY1MWRkZDA0MmZlYzY4MjFlOWI2IiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      }
+    ],
+    "status": "valid",
+    "user_id": "392560"
+  },
+  {
+    "id": "c0c74304",
+    "name": "mat1202",
+    "email": "mat1202@mail.ru",
+    "proxy_host": "45.94.230.159",
+    "proxy_port": 8000,
+    "proxy_user": "uaYsD5",
+    "proxy_pass": "AhoS7U",
+    "cookies": [
+      {
+        "name": "__ddg8_",
+        "value": "mxDsYNEgRtI6MELS",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg10_",
+        "value": "1775396675",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg9_",
+        "value": "45.94.230.159",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg1_",
+        "value": "WWEHkUrtvRrvUcZlP2rZ",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6IlYrMGtIaGFlNytkT1crTEszeENERmc9PSIsInZhbHVlIjoiQWhXRGxEd3EyWHlBMTBwNUprOTMveWplRjh4SzMzTkZJdXJvdCtJa2tORXIwakVoQXdlWmZWSGVTQkE0eFB3L055TVBtSitrRGovTURIeXdYRkNBVTJEcUMxTURPaC8wTVhpS3Z5OFBRMTU5U2tWYVFDU3l2QnljUnZRb3ZwTGwiLCJtYWMiOiI2Y2E5OWY4ODkzOTY3MDc1YjFhNzkwMzg4MmIzM2RiZDUyZTlkNzU0OWQ2NTA4YWE3YWY1MjhjZGIxMzU1NGVkIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "mangabuff_session",
+        "value": "eyJpdiI6IjJuaUFVTzFjVDAxdHg2MVJlVkVrcVE9PSIsInZhbHVlIjoid0d5MXVvVFB3SWlUeERqQ1k5NU1BNDlmNzQrRnd4aVJ0UnMvSFVFWXo2T0JsMHNmeFVkK2xXc3NRQXRXMjU5L1hzWlJNYW82MktBb1ZrMkxFME94SitkUTBnUTkrSE5CaG9qTzcwNmxUdG1oSFdPOWJuZ08weEVkOTZya1R3ZFgiLCJtYWMiOiIyM2I4YmM3NDIwZDQyY2QwNTZmY2ViNThjNjJmMWU2YWVhY2IwYWQ2NzA4ODZjMzcxY2Q4NWU1Y2ZjY2Y0N2Q4IiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "last-chapter-id",
+        "value": "a603d77e-fd16-401d-82f4-aa7651f7d74f",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "value": "eyJpdiI6Ii9weHF0OE5Scmk2RGErUUZBOTUzc0E9PSIsInZhbHVlIjoiL2hvbW9WQTlYSnlNU2Z5NHF4bm0rL2NneGlFR0d4bCtvaUdpSm5MNXl6Yk45VnhQaUFaODJaMm1hTVVaNGFhK29PSFdOdFZXOTJyUTFnb1gwVkdNQ0l2eE90TFB2em56M3NPU1lwanNxdmY3Y3pTZkkvTnhPSUhWVTJoS1FLSDhxVUw5WnR2MzlQa3ZNSVl3MmJDOEtPQWh5SXdoVm9sTVRVZGFmOXFmdTBoeW1ZYVVNd0hYMER6RVFQWXZyb3BOMjdTekUwc2o4QmdkVklkRVMxWithT2VUY2tjTDRkblpDbFQ3R09xaWJ5MD0iLCJtYWMiOiI3YTM3NzQxMzMyZmZiZTk3OTFhMTdlOGE2YzdjMjU1MjhjYWM1ZGY2YWNjY2I2MDRhZDMxMTU2ZTQ1NzcxOGNmIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      }
+    ],
+    "status": "valid",
+    "user_id": "852752"
+  },
+  {
+    "id": "9582c417",
+    "name": "Qurbanovomar08",
+    "email": "Qurbanovomar08@mail.ru",
+    "proxy_host": "45.94.228.73",
+    "proxy_port": 8000,
+    "proxy_user": "uaYsD5",
+    "proxy_pass": "AhoS7U",
+    "cookies": [
+      {
+        "name": "__ddg8_",
+        "value": "77z9QXEd4x5kpZIS",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg10_",
+        "value": "1775396689",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg9_",
+        "value": "45.94.228.73",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "__ddg1_",
+        "value": "RV4tFhz4KGBHpkF3yFfC",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6IkJmK1NXNWNRVWpDV3pJNGQ3TTRJUlE9PSIsInZhbHVlIjoiRkNLQ3habEVpMWlVM1dOWTQxbDAvdWFJM1RzSk5KWDAwZGkxaGdYcHF1L3Q2bFdaVm5NWjBZRVNMa2o3QTdBNUFGTHY5eFRwcjk2b2pmZ2hKMDgvVUhoMWhpNDNSOS81Z1VRclJHdStNaThFL2ZKVUQyUG9URFlUMi9rU1VIVGgiLCJtYWMiOiI2NTVmODI1OTg5MThkYzdiODdlZTQ4ZjAwZWY5OWI4ZjI0NGNjYmRmYTljMGJjNmQ2M2QxZjNkYWVjYzZhNjkzIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "mangabuff_session",
+        "value": "eyJpdiI6InBFTk56U2Q1dC84Vjk4UmJCeXNsZmc9PSIsInZhbHVlIjoicVZ3dWw2aE9DcnFXV2ZwTkN0YkQ4cGM1ZjQvb0hKQmJENmtGT1BNVitNSHdoSGN4S0xHdEtZVkg3RTJlWFVRbjBycm1qMkxiTUQyVDhjWWxtNGphRnUvRStodEc5UVphSk4yYSsyeXIrOCtRNTlzdVRkM0ZPL1JQTkhvWTIwcm8iLCJtYWMiOiJlZmU0ZGRjNTFhZjJiYjhmMDY2MWRhMTQ4ZTBjZWRjYjc0NDE5ZDk3YzA0ZWMwZTVhMmFlZTlhY2JhMDU1M2YxIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "last-chapter-id",
+        "value": "c5a57643-ce56-4187-91ba-e86ace156e4d",
+        "domain": "mangabuff.ru"
+      },
+      {
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "value": "eyJpdiI6IjEzUUJiSlhDUDAwOVB6dTJUNytKdmc9PSIsInZhbHVlIjoiVytqNnUvb2doNHMwemxLL1pQS3VnTDR2djNObE5sNFRKOEZXcjIzSjhFSmREYmRVQnRRZEVGWnhCbHRMMXVtWjE4bmdrSm1DVjhaYm1PTmlhTFEyQkNFQkJ2ZTdnLzUwbE54Smk1V1dOdlJRS2dTTWorOXZIL0gvMnViV0REVnk4bjJsc1VheVZIOGkxUkFjclZVTlgwZ0tYbGxDdmhFeE1WcEdXb2VNZkJqdWRhRzU1NVRKK0JwOHA1VVZmeldlSExRMDkxeXk4SGtOMXpQNTdsQTVEWTY5a1ZGZFU5TDNJZWNPSEZXMFpSTT0iLCJtYWMiOiI0OTllMTVlMTFhZmM4NTliNzgxM2E2YWQyNjVjYTYwNjRiMTMxMmNmZjc1MzY4M2Q0NTFiYjEzYzhhOTZlY2ZlIiwidGFnIjoiIn0%3D",
+        "domain": "mangabuff.ru"
+      }
+    ],
+    "status": "valid",
+    "user_id": "403894"
+  }
+]
